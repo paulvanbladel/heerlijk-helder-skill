@@ -186,6 +186,14 @@ Zeventien tests, standaardbibliotheek, geen netwerk.
 
 ## Bron en licentie
 
+### Waar de naam vandaan komt
+
+Heerlijk Helder begon in het voorjaar van 2015 als campagne van het radioprogramma
+*Hautekiet* op Radio 1, met het boek *Heerlijk helder* van Jan Hautekiet en Ann De
+Craemer (Polis, 2015). De Vlaamse overheid nam de naam in 2017 over voor haar eigen
+campagne, in overleg met de VRT. Team Taaladvies schreef toen de brochure waarop deze
+skill zich baseert.
+
 ### Inhoudelijke bron
 
 Gebaseerd op *Hou je taal Heerlijk Helder. Twintig tips voor een heldere taal en heldere

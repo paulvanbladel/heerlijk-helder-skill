@@ -187,6 +187,9 @@ verdwenen is. Tel de tekens per sectie in plaats van het document door te lezen.
   Team Taaladvies, Departement Kanselarij en Bestuur, Vlaamse overheid, 2017
   (depotnummer D/2017/3241/319). Deze skill herformuleert de richtlijnen in eigen
   woorden; de voorbeelden hier zijn eigen werk.
+- De naam komt van de campagne van het radioprogramma *Hautekiet* (Radio 1, 2015) en het
+  boek *Heerlijk helder* van Jan Hautekiet en Ann De Craemer (Polis, 2015). De Vlaamse
+  overheid nam hem in 2017 over, in overleg met de VRT.
 - Heerlijk Helder: `www.vlaanderen.be/intern/werkplek/ondersteuning/heerlijk-helder`
 - Taaltelefoon (spelling, grammatica, woordgebruik): `taaltelefoon.be`
 - Opzet afgeleid van de MIT-skills `simple-english` (AminBlg/SimpleEnglish) en
