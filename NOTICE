@@ -1,0 +1,77 @@
+NOTICE — afgeleid werk en licentievermeldingen
+
+Deze repo (heerlijk-helder-skill) is een afgeleid werk van twee MIT-gelicentieerde
+projecten. Hieronder staan hun licentievermeldingen, zoals MIT vereist.
+
+--------------------------------------------------------------------------------
+1. SimpleEnglish — https://github.com/AminBlg/SimpleEnglish
+   Overgenomen via de agentskill `simple-english` (v1.2.0, license: MIT), zelf een
+   port van AminBlg/SimpleEnglish. De copyrightvermelding van de oorspronkelijke
+   auteur staat hieronder.
+
+   Overgenomen: de twee-modi-opzet, de volgorde van de werkwijze, de
+   niet-aankomen-lijst, de driedeling mechanisch/telbaar/oordeel in de controlepas,
+   en een bewerkte Nederlandse vertaling van references/use-cases.md met enkele
+   van de voorbeelden daaruit.
+
+MIT License
+
+Copyright (c) AminBlg
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+2. asd-ste100-skill — https://github.com/danyuchn/asd-ste100-skill (MIT)
+
+   Overgenomen: het patroon van een deterministische linter naast de prose, de
+   vorm van de CLI (bestandsargumenten plus --baseline), het formaat van de
+   samenvattingsregel, de vaste disclaimerregel, de fixture-gestuurde tests, en de
+   werkwijze "de repo lint zelf niet schoon, hier is de gemeten baseline".
+   De code van scripts/helder-lint.py is nieuw geschreven.
+
+MIT License
+
+Copyright (c) danyuchn
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+3. Inhoudelijke bron (geen software)
+
+   "Hou je taal Heerlijk Helder. Twintig tips voor een heldere taal en heldere
+   teksten", Team Taaladvies, Departement Kanselarij en Bestuur, Vlaamse overheid,
+   2017, depotnummer D/2017/3241/319. Vrij beschikbaar bij de Vlaamse overheid.
+   De regels zijn geherformuleerd voor agentgebruik; een deel van de voorbeelden
+   is overgenomen als illustratie.
