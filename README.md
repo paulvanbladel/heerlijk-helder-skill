@@ -155,7 +155,7 @@ of de toon klopt. Nul bevindingen betekent dat de ingebouwde patronen niets vond
 Exitcode 0 onder de baseline, 1 erboven, 2 bij een onvindbaar bestand.
 
 De repo lint zelf niet schoon: de regeltabellen citeren de patronen die ze verbieden.
-Gemeten baselines: `SKILL.md` 13, `README.md` 8, `references/regels.md` 5,
+Gemeten baselines: `SKILL.md` 13, `README.md` 9, `references/regels.md` 5,
 `references/checklist.md` 4, `references/toepassingen.md` 2,
 `references/woordenlijst.md` 0, `examples/voor-na.md` 9.
 
