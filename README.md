@@ -12,6 +12,46 @@ Dit is de Nederlandse tegenhanger van de ASD-STE100-skills voor het Engels. Er b
 geen Nederlandse ASD-STE100: deze skill past het principe toe (één woord per begrip,
 actieve vorm, één instructie per zin, korte zinnen), niet een gecertificeerde norm.
 
+## Voor wie geen programmeur is: zo installeert u de skill
+
+U hebt geen programma's of commando's nodig. U downloadt één bestand en uploadt het.
+
+### Stap 1: download het bestand
+
+1. Ga naar de downloadpagina:
+   <https://github.com/paulvanbladel/heerlijk-helder-skill/releases/latest>
+2. Klik onderaan, bij **Assets**, op `heerlijk-helder.zip`.
+3. Het bestand komt in uw map Downloads terecht. Pak het niet uit.
+
+### Stap 2: upload de skill in ChatGPT
+
+1. Open ChatGPT in uw browser.
+2. Open het menu bij uw profiel en kies **Skills**.
+3. Klik op **Create** en daarna op **Upload from your computer**.
+4. Kies `heerlijk-helder.zip` uit uw map Downloads.
+5. Wacht tot ChatGPT de skill gecontroleerd heeft. Dat duurt meestal een halve minuut.
+
+De skill staat nu in uw lijst. ChatGPT gebruikt hem vanaf dan zelf wanneer dat past.
+
+Ziet u geen **Skills** staan? Dan heeft uw account deze functie niet. Skills werken bij
+ChatGPT Business, Enterprise, Healthcare en Edu. Werkt u in een bedrijf, vraag dan aan
+uw beheerder om skills aan te zetten.
+
+### Stap 3: gebruik de skill
+
+Plak uw tekst in het gesprek en vraag om een herschrijving. Bijvoorbeeld:
+
+> Herschrijf deze brief naar klare taal met de skill heerlijk-helder.
+
+U krijgt de herschreven tekst terug. Vraag gerust om uitleg:
+
+> Welke regels overtrad mijn tekst? Toon de diff.
+
+### En in Claude?
+
+Ga naar **Settings**, open **Capabilities**, kies **Skills** en upload dezelfde zip.
+De stappen erna zijn gelijk.
+
 ## Wat de skill doet
 
 1. Kiest een modus. **Procedureel** voor instructies, runbooks, foutmeldingen en
@@ -24,7 +64,10 @@ actieve vorm, één instructie per zin, korte zinnen), niet een gecertificeerde 
 5. Levert alleen de herschreven tekst. Vraag om "de diff" en je krijgt een tabel
    voor/na met regelverwijzingen.
 
-## Installatie
+## Installatie met git
+
+Deze sectie is voor wie met git en een terminal werkt. Hebt u die niet nodig? Gebruik
+dan de stappen hierboven.
 
 Haal eerst de repo op:
 
@@ -35,7 +78,9 @@ cd heerlijk-helder-skill
 
 ### ChatGPT
 
-ChatGPT installeert een skill als zip-bestand. Maak die eerst:
+ChatGPT installeert een skill als zip-bestand. De kant-en-klare zip hangt aan de
+[laatste release](https://github.com/paulvanbladel/heerlijk-helder-skill/releases/latest).
+Bouwt u hem liever zelf uit de repo:
 
 ```bash
 cd .. && zip -r heerlijk-helder.zip heerlijk-helder-skill -x '*.git*'
@@ -63,9 +108,9 @@ git clone https://github.com/paulvanbladel/heerlijk-helder-skill \
 Wil je de skill alleen in één project? Gebruik dan `.claude/skills/heerlijk-helder`
 in de projectmap.
 
-**Claude op het web en in de app** werkt met een zip, net als ChatGPT. Maak de zip
-zoals hierboven. Ga naar **Settings**, open **Capabilities**, kies **Skills** en
-upload het bestand.
+**Claude op het web en in de app** werkt met een zip, net als ChatGPT. Neem de zip uit
+de laatste release of maak er zelf een. Ga naar **Settings**, open **Capabilities**,
+kies **Skills** en upload het bestand.
 
 ### Andere agents
 
