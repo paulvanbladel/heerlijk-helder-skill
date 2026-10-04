@@ -23,6 +23,14 @@ U hebt geen programma's of commando's nodig. U downloadt één bestand en upload
 2. Klik onderaan, bij **Assets**, op `heerlijk-helder.zip`.
 3. Het bestand komt in uw map Downloads terecht. Pak het niet uit.
 
+Staat u al op de projectpagina? Dan kunt u ook daar downloaden. Klik rechtsboven op de
+groene knop **Code** en kies onderaan **Download ZIP**:
+
+![Het menu onder de groene Code-knop op GitHub. Onderaan staat de regel Download ZIP, onder Open in GitHub Copilot app en Open with GitHub Desktop.](docs/download-zip.png)
+
+Die tweede weg geeft een bestand met een langere naam, `heerlijk-helder-skill-main.zip`.
+U uploadt het op dezelfde manier.
+
 ### Stap 2: upload de skill in ChatGPT
 
 1. Open ChatGPT in uw browser.
