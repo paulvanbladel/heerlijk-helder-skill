@@ -1,10 +1,14 @@
 # Volledige regellijst met voorbeelden
 
-Bron: *Hou je taal Heerlijk Helder. Twintig tips voor een heldere taal en heldere
-teksten*, Team Taaladvies, Vlaamse overheid, 2017. De brochure heet "twintig tips" maar
-telt er 22 in vier blokken: Doelgroep 4, Structuur 7, Formulering 4, Toetsing 7.
-Hieronder staan de regels die een herschrijving sturen, met de voorbeelden uit de
-brochure. Citeer altijd blok + nummer zoals hier.
+De regels volgen de indeling van *Hou je taal Heerlijk Helder. Twintig tips voor een
+heldere taal en heldere teksten* (Team Taaladvies, Vlaamse overheid, 2017). De brochure
+heet "twintig tips" maar telt er 22 in vier blokken: Doelgroep 4, Structuur 7,
+Formulering 4, Toetsing 7.
+
+De regels hieronder zijn in eigen woorden geformuleerd en **alle voorbeelden zijn eigen
+werk**, geschreven voor deze repo. Raadpleeg de brochure zelf voor de officiële
+formulering en de voorbeelden van de Vlaamse overheid. Citeer altijd blok + nummer zoals
+hier.
 
 ## Doelgroep
 
@@ -19,18 +23,18 @@ wijs.
 
 | Liever niet | Maar wel |
 |---|---|
-| Men dient voor elke factuur de factuurdatum te controleren. | Controleer voor elke factuur de factuurdatum. |
-| Elke inwoner moet zijn of haar nieuwe adres meteen doorgeven als hij of zij naar een andere straat in zijn of haar gemeente gaat verhuizen. | Verhuist u naar een andere straat in uw eigen gemeente? Geef uw nieuwe adres dan meteen door. |
-| Extra exemplaren van de speeldoos kunnen telefonisch besteld worden. | Voor extra exemplaren van de speeldoos kun je bellen naar 02 345 67 89. |
-| Voor het aanvragen van de subsidies is het invullen van het bijgaande formulier noodzakelijk. | Om de subsidie aan te vragen, vult u het bijgaande formulier in. |
+| Men wordt verzocht de lidkaart bij elk bezoek te tonen. | Toon uw lidkaart bij elk bezoek. |
+| Leden die hun lidgeld nog niet betaald hebben, dienen dit vóór het einde van de maand in orde te brengen. | Hebt u uw lidgeld nog niet betaald? Betaal het dan vóór 31 maart. |
+| Reserveringen kunnen online geannuleerd worden. | U annuleert uw reservering in uw account. |
+| Voor het verkrijgen van een parkeerkaart is het indienen van een bewijs van woonst vereist. | Om een parkeerkaart te krijgen, dient u een bewijs van woonst in. |
 
 **Doelgroep 4.** Kies een toon die bij de situatie past. Geen gewichtige of dreigende
 toon, geen ambtelijke of juridische vaktaal, geen citaten uit regelgeving.
 
 | Liever niet | Maar wel |
 |---|---|
-| De incidentiecijfers voor influenza fluctueren sterk op jaarbasis. | Het aantal mensen dat griep krijgt, kan van jaar tot jaar sterk verschillen. |
-| Conform artikel 5 van het decreet van 21 november 2008 betreffende de ondersteuning van de circuskunsten in Vlaanderen komt u niet in aanmerking voor subsidiëring. | U komt niet in aanmerking voor subsidiëring omdat uw maatschappelijke zetel niet in het Nederlandse taalgebied of in Brussel-Hoofdstad gevestigd is. |
+| De prevalentie van pollenallergie vertoont een stijgende trend. | Steeds meer mensen krijgen last van een pollenallergie. |
+| Overeenkomstig artikel 12 van het reglement van 4 maart 2019 wordt uw aanvraag niet weerhouden. | Wij keuren uw aanvraag niet goed. U hebt ze ingediend na 31 januari, en dat is de uiterste datum. |
 
 ## Structuur
 
@@ -42,11 +46,11 @@ chronologisch bij instructies.
 
 | Liever niet | Maar wel |
 |---|---|
-| Rapport over de stages | Evaluatie van de bedrijfsstages in de periode 2010-2017 |
-| Enquêteresultaten | Resultaten van de enquête over de personeelstevredenheid |
-| Vraagformulier | Aanvraag van een tegemoetkoming in de kosten van woon-werkverkeer |
-| Vraagje | Vraag over de kwaliteit van uw laatste levering |
-| Annulering | Annulering van uw bestelling nr. 25541 |
+| Verslag | Verslag van de evacuatieoefening van 14 maart |
+| Cijfers | Aantal uitleningen per maand in 2025 |
+| Formulier | Aanvraag van een parkeerkaart voor bewoners |
+| Even dit | Vraag over uw bestelling van 3 april |
+| Wijziging | Nieuwe openingsuren van het recyclagepark vanaf 1 mei |
 
 **Structuur 3.** Maak de structuur zichtbaar: rubrieknummers, herkenbare rubriektitels,
 een inhoudsopgave of korte inleiding bij een langere tekst.
@@ -64,7 +68,7 @@ betekenisvol.
 
 | Liever niet | Maar wel |
 |---|---|
-| Meer informatie vindt u hier. | Meer informatie vindt u in de procedure voor buitenlandse studenten. |
+| Klik hier voor meer informatie. | Lees hoe u een parkeerkaart aanvraagt. |
 
 ## Formulering
 
@@ -73,9 +77,9 @@ betekenisvol.
 de boodschap zonder die term vaag of omslachtig wordt, en leg hem dan uit. Wees zuinig
 met leenwoorden waarvoor een gewoon Nederlands woord bestaat.
 
-Uitzondering uit de brochure: bij een doelgroep met veel anderstaligen kan een leenwoord
-dat in veel talen voorkomt duidelijker zijn dan het Nederlandse woord, bijvoorbeeld
-*infectie* in plaats van *besmetting*.
+Eén uitzondering: schrijf je voor een doelgroep met veel anderstaligen, dan kan een
+internationaal woord duidelijker zijn dan het Nederlandse. Kies in dat geval het woord
+dat de lezer herkent.
 
 **Formulering 2.** Gebruik afkortingen alleen als ze echt nodig zijn. Schrijf
 redactionele afkortingen voluit (*d.w.z.*, *i.p.v.*, *o.a.*). Introduceer een afkorting
@@ -88,24 +92,24 @@ Gebruik consequent hetzelfde woord voor hetzelfde begrip.
 
 | Liever niet | Maar wel |
 |---|---|
-| De aangifte moet gebeurd zijn vóór 15 maart van het productiejaar dat aan het aangiftejaar voorafgaat. | U kunt de aangifte voor het productiejaar 2017 uiterlijk op 14 maart 2018 indienen. |
-| Er wordt gewerkt aan een nieuwe regeling voor de subsidie van dakisolatie. | De minister van Energie werkt aan nieuwe regels voor de subsidie van dakisolatie. Die worden begin 2019 van kracht. |
-| U krijgt daarover binnenkort een brief van uw ziekenfonds. | U krijgt daarover begin november een brief van uw ziekenfonds. |
-| De personeelsbezetting wordt verder gerationaliseerd. | We moeten dit jaar nog tien personeelsleden laten afvloeien. |
-| De aanvragen ingediend na het einde van het jaar zullen pas na 21 maart behandeld worden. | Als u uw aanvraag uiterlijk op 31 december indient, zullen we die vóór 21 maart behandelen. |
-| Het is niet helemaal denkbeeldig dat vastgoed de komende tijd niet in waarde zal stijgen. | Vastgoed zou de komende tijd in waarde kunnen dalen. |
-| Bij loonsverhoging vermeldt u ook uw jaarsalaris. We hebben uw bezoldigingsgegevens nodig. | Bij loonsverhoging vermeldt u ook uw jaarloon. We hebben uw loongegevens nodig. |
+| De betaling dient te gebeuren vóór het verstrijken van de termijn vermeld op de keerzijde. | Betaal uiterlijk op 30 juni 2026. |
+| Er wordt onderzocht of de fietsenstalling uitgebreid wordt. | De dienst Mobiliteit onderzoekt een uitbreiding van de fietsenstalling. De beslissing valt in juni. |
+| U hoort binnenkort iets van ons. | U krijgt vóór 15 mei een brief van ons. |
+| De dienstverlening wordt verder geoptimaliseerd. | Het loket sluit op woensdag. U dient uw dossier voortaan online in. |
+| Dossiers die te laat binnenkomen zullen later behandeld worden. | Bezorgt u uw dossier vóór 1 oktober? Dan behandelen wij het nog dit jaar. |
+| Het is niet uitgesloten dat de levering niet op tijd gebeurt. | De levering kan te laat komen. |
+| Vermeld uw rijksregisternummer. Wij hebben uw identificatiegegevens nodig. | Vermeld uw rijksregisternummer. Met dat nummer vinden wij uw dossier terug. |
 
 **Formulering 4.** Laat weg wat overbodig is en maak korter wat korter kan. Knip lange
 zinnen op. Breng woorden die bij elkaar horen dichter bij elkaar.
 
 | Liever niet | Maar wel |
 |---|---|
-| Mogen we u eraan herinneren dat het erg belangrijk is dat u dit aanvraagformulier binnen een periode van een maand na ontvangst ervan volledig ingevuld terugstuurt. | Stuur deze aanvraag uiterlijk een maand na ontvangst terug. |
-| Deze premie geldt voor landbouwbedrijven, gelegen in het Vlaamse Gewest. | Deze premie geldt voor landbouwbedrijven in het Vlaamse Gewest. |
-| Door de late start van het project en de strakke deadlines zijn we er niet in geslaagd om de resultaten van de tussentijdse tests met die van het proefproject te vergelijken. | We konden de resultaten van de tussentijdse tests niet vergelijken met die van het proefproject. Dat komt door de late start van het project en de strakke deadlines. |
-| Organisaties die conform de voorwaarden in aanmerking komen voor financiële ondersteuning, kunnen de subsidies online aanvragen tot eind dit jaar. | Voldoet uw organisatie aan de subsidievoorwaarden? Dan kunt u de subsidie nog tot eind 2018 online aanvragen. |
-| U mag voor de berekening van uw premie alleen de facturen die minder dan één jaar oud zijn en die door een aannemer zijn uitgeschreven, meetellen. | Bereken de premie aan de hand van uw facturen. Tel alleen de facturen mee die minder dan één jaar oud zijn en door een aannemer zijn uitgeschreven. |
+| Mogen wij u eraan herinneren dat het belangrijk is dat u dit formulier binnen een periode van een maand na ontvangst ervan volledig ingevuld terugstuurt. | Stuur dit formulier uiterlijk een maand na ontvangst volledig ingevuld terug. |
+| Deze korting geldt voor abonnees, woonachtig in de gemeente. | Deze korting geldt voor abonnees die in de gemeente wonen. |
+| Door de staking bij de leverancier en de feestdagen in de leveringsweek zijn wij er niet in geslaagd om uw bestelling binnen de aangekondigde termijn te leveren. | Wij hebben uw bestelling te laat geleverd. Dat komt door de staking bij de leverancier en door de feestdagen in de leveringsweek. |
+| Verenigingen die conform de voorwaarden in aanmerking komen voor een toelage, kunnen die online aanvragen tot eind dit jaar. | Voldoet uw vereniging aan de voorwaarden? Dan vraagt u de toelage online aan tot 31 december. |
+| U mag voor de terugbetaling alleen de tickets die van dit kalenderjaar dateren en die op uw naam staan, meetellen. | Tel voor de terugbetaling alleen de tickets mee van dit kalenderjaar. Ze moeten op uw naam staan. |
 
 ## Toetsing
 

@@ -49,9 +49,9 @@ en maken de regel toetsbaar. Noem de gekozen modus niet in de uitvoer.
 
 ## De regels
 
-Vier blokken, zoals in de brochure *Hou je taal Heerlijk Helder* (Team Taaladvies, 2017).
-Citeer regels als blok + nummer, bijvoorbeeld "Formulering 1". Verzin geen nummers:
-zie `references/regels.md` voor de volledige lijst met voorbeelden.
+Vier blokken, met de indeling van de brochure *Hou je taal Heerlijk Helder* (Team
+Taaladvies, 2017). Citeer regels als blok + nummer, bijvoorbeeld "Formulering 1". Verzin
+geen nummers: zie `references/regels.md` voor de volledige lijst met voorbeelden.
 
 ### Doelgroep
 
@@ -185,8 +185,9 @@ verdwenen is. Tel de tekens per sectie in plaats van het document door te lezen.
 
 - *Hou je taal Heerlijk Helder. Twintig tips voor een heldere taal en heldere teksten*,
   Team Taaladvies, Departement Kanselarij en Bestuur, Vlaamse overheid, 2017
-  (depotnummer D/2017/3241/319).
-- Heerlijk Helder: `overheid.vlaanderen.be/communicatie/heerlijk-helder`
+  (depotnummer D/2017/3241/319). Deze skill herformuleert de richtlijnen in eigen
+  woorden; de voorbeelden hier zijn eigen werk.
+- Heerlijk Helder: `www.vlaanderen.be/intern/werkplek/ondersteuning/heerlijk-helder`
 - Taaltelefoon (spelling, grammatica, woordgebruik): `taaltelefoon.be`
 - Opzet afgeleid van de MIT-skills `simple-english` (AminBlg/SimpleEnglish) en
   `danyuchn/asd-ste100-skill`. Zie `NOTICE` in de repo.

@@ -1,11 +1,11 @@
 # Woordenlijst: stijfwoord naar gewoon woord
 
-De eerste tabel komt uit de brochure *Hou je taal Heerlijk Helder* (Formulering 1).
-De overige tabellen zijn uitbreidingen voor technische teksten. Ze zijn richtinggevend,
-geen gesloten lijst: bestaat er een gewoner woord met dezelfde betekenis en
-gevoelswaarde, gebruik dat.
+Substitutielijst bij Formulering 1. De lijst is voor deze repo samengesteld uit gangbaar
+Nederlands taaladvies; raadpleeg Taaltelefoon voor het officiële advies per woord. De
+lijst is richtinggevend, geen gesloten lijst: bestaat er een gewoner woord met dezelfde
+betekenis en gevoelswaarde, gebruik dat.
 
-## Uit de brochure
+## Stijfwoorden
 
 | Liever niet | Maar wel |
 |---|---|
@@ -29,6 +29,15 @@ gevoelswaarde, gebruik dat.
 | meeting | vergadering, bijeenkomst, overleg |
 | policy | politiek, beleid, aanpak |
 | vigeren | gelden, van kracht zijn |
+| aanvangen | beginnen, starten |
+| beschikken over | hebben |
+| bewerkstelligen | zorgen voor, regelen |
+| dienaangaande | daarover |
+| in voorkomend geval | als dat zo is |
+| kennisgeving | bericht, melding |
+| overmaken | bezorgen, sturen |
+| rekening houdend met | door, volgens |
+| vooraleer | voordat |
 
 ## Uitbreiding: ambtelijk
 

@@ -54,11 +54,12 @@ Formulering 3 (naamwoordstijl), Formulering 4 (werkwoordsgroep van drie).
 Overtredingen: Formulering 1 (naar aanleiding van, met betrekking tot, implementeren),
 Formulering 3 (er wordt gewerkt aan, op korte termijn), Doelgroep 2 (geen kernboodschap).
 
-## Ambtelijke zin uit de brochure zelf
+## Ambtelijk bordje
 
-> **Voor:** Plaats na het nuttigen van uw koffie het bevuilde omhulsel op de daarvoor
-> voorziene schoonmaakplaats.
+> **Voor:** Gelieve na het beëindigen van uw maaltijd het restafval te deponeren in de
+> daartoe bestemde recipiënten.
 >
-> **Na:** Zet uw lege koffiekop in de afwasmachine.
+> **Na:** Gooi uw afval in de vuilnisbak.
 
-Overtreding: Formulering 1 en 4. Dit voorbeeld komt uit *Hou je taal Heerlijk Helder*.
+Overtredingen: Doelgroep 4 (toon), Formulering 1 (gelieve, beëindigen, deponeren,
+recipiënt), Formulering 3 (naamwoordstijl).

@@ -102,9 +102,9 @@ of de toon klopt. Nul bevindingen betekent dat de ingebouwde patronen niets vond
 Exitcode 0 onder de baseline, 1 erboven, 2 bij een onvindbaar bestand.
 
 De repo lint zelf niet schoon: de regeltabellen citeren de patronen die ze verbieden.
-Gemeten baselines: `SKILL.md` 13, `README.md` 8, `references/regels.md` 7,
+Gemeten baselines: `SKILL.md` 13, `README.md` 8, `references/regels.md` 5,
 `references/checklist.md` 4, `references/toepassingen.md` 2,
-`references/woordenlijst.md` 0, `examples/voor-na.md` 8.
+`references/woordenlijst.md` 0, `examples/voor-na.md` 9.
 
 ```bash
 python3 scripts/helder-lint.py --baseline 13 SKILL.md
@@ -138,8 +138,11 @@ Zeventien tests, standaardbibliotheek, geen netwerk.
 Gebaseerd op *Hou je taal Heerlijk Helder. Twintig tips voor een heldere taal en heldere
 teksten*, Team Taaladvies, Departement Kanselarij en Bestuur, Vlaamse overheid, 2017
 (depotnummer D/2017/3241/319). De brochure is vrij beschikbaar bij de Vlaamse overheid.
-Deze repo herformuleert de richtlijnen voor agentgebruik en neemt een deel van de
-voorbeelden over als illustratie.
+
+Deze repo neemt geen tekst uit de brochure over. De regels zijn in eigen woorden
+geherformuleerd voor agentgebruik, en alle voorbeelden in `references/` en `examples/`
+zijn voor deze repo geschreven. Wie de officiële formulering en de voorbeelden van de
+Vlaamse overheid wil, leest de brochure zelf.
 
 ### Afgeleid werk
 
