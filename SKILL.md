@@ -109,9 +109,11 @@ Laat deze elementen letterlijk staan, ook als ze een regel breken:
    en elke datum. *Klaar als je de feitenlijst kunt opsommen.*
 3. **Markeer de overtredingen** per zin, met blok en nummer. *Klaar als elke gemarkeerde
    zin een regelverwijzing heeft.*
-4. **Herschrijf zin voor zin.** Laat geen feit vallen. Houd een kortere formulering tegen
-   die precisie kost en meld die als afweging. *Klaar als de feitenlijst uit stap 2
-   volledig terugkomt in de herschrijving.*
+4. **Herschrijf zin voor zin.** Laat geen feit vallen en voeg geen feit toe. Geef geen
+   oorzaak, frequentie of mechanisme dat de bron niet noemt. Ontbreekt een datum, getal
+   of oorzaak, markeer de plek (bijvoorbeeld `[datum]`) of vraag het aan de schrijver.
+   Houd een kortere formulering tegen die precisie kost en meld die als afweging.
+   *Klaar als alleen feiten uit de feitenlijst uit stap 2 terugkomen in de herschrijving.*
 5. **Draai de linter** op het resultaat (zie Controleren). *Klaar als er geen harde
    bevindingen meer zijn, of elke overgebleven bevinding verantwoord is.*
 6. **Schrijf terug.** Eén sectie: bewerk gericht. Hele tekst: schrijf het bestand opnieuw.

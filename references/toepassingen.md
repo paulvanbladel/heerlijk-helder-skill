@@ -8,13 +8,15 @@ waar een misverstand geld of tijd kost. Per geval: de modus en de aanpassing.
 Modus: procedureel. Het hoogste rendement. Een foutmelding is een instructie aan iemand
 die om 2 uur 's nachts gewekt is.
 
-Patroon: wat ging er mis (verleden tijd), wat is de oorzaak, wat moet de lezer doen.
+Patroon: wat ging er mis (verleden tijd), de oorzaak als die bekend is, en wat de lezer
+moet doen als de bron dat vermeldt. Voeg geen oorzaak of handeling toe die de bron niet
+geeft.
 
 > **Liever niet:** Er is helaas iets misgegaan bij het tot stand brengen van een
 > verbinding. Gelieve na te gaan of uw gegevens correct geconfigureerd zijn.
 >
-> **Maar wel:** De verbinding met de database is mislukt. Het wachtwoord van gebruiker
-> `app` klopt niet. Stel `DB_PASSWORD` in en probeer opnieuw.
+> **Maar wel:** Uw aanvraag is mogelijk mislukt door een afwijking van het verwachte
+> gegevensformaat, eventueel door een verouderde clientversie.
 
 ## Runbooks en procedures
 
@@ -24,13 +26,14 @@ woorden geldt hard; een operator onder tijdsdruk leest elke zin één keer.
 
 ## Incidentverslagen en postmortems
 
-Modus: beschrijvend. Gebruik de onvoltooid verleden tijd en noem tijdstippen.
+Modus: beschrijvend. Gebruik de onvoltooid verleden tijd en noem tijdstippen als de bron
+die geeft. Vraag ontbrekende tijdstippen op.
 
 > **Liever niet:** We hebben vastgesteld dat een probleem mogelijk impact gehad heeft op
 > de toegang van sommige gebruikers.
 >
-> **Maar wel:** Tussen 14.02 en 14.31 uur faalde 12% van de aanvragen. Een deploy om
-> 14.00 uur verwijderde de cache-opwarming.
+> **Maar wel:** Een probleem heeft mogelijk invloed gehad op de toegang van sommige
+> gebruikers. [Tijdstip en omvang opvragen.]
 
 Heerlijk Helder verbiedt verbloemende formuleringen (Formulering 3). Het verslag noemt
 wat bekend is en schrijft "onbekend" voor de rest. Dat leest eerlijker omdat het dat is.
