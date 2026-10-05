@@ -89,6 +89,16 @@ class TestRegels(unittest.TestCase):
         self.assertNotIn("leenwoord", self.check("We gaan dit implementeren."))
         self.assertIn("leenwoord", self.check("We gaan dit implementeren.", advies=True))
 
+    def test_contextafhankelijke_vage_woorden_geeft_alleen_advies(self):
+        self.assertNotIn("vaag-woord", self.check("Sommige dossiers zijn later klaar."))
+        lines = lint_mod.strip_code(["Sommige dossiers zijn later klaar."])
+        uit = []
+        for regel, kolom, zin in lint_mod.zinnen(lines):
+            uit.extend(lint_mod.controleer_zin("t.md", regel, kolom, zin, 25, True))
+        vaag = [b for b in uit if b.regelnaam == "vaag-woord"]
+        self.assertEqual([b.fragment for b in vaag], ["later", "sommige"])
+        self.assertTrue(all(not b.hard for b in vaag))
+
     def test_afkorting_breekt_de_zin_niet_af(self):
         lines = lint_mod.strip_code(["Stuur o.a. de bijlage mee en vul het formulier in."])
         self.assertEqual(len(list(lint_mod.zinnen(lines))), 1)

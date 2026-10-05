@@ -13,9 +13,9 @@ metadata:
 # Heerlijk Helder: klare taal in het Nederlands
 
 Herschrijf Nederlandse tekst volgens Heerlijk Helder, de richtlijn voor klare taal van
-Team Taaladvies van de Vlaamse overheid. De skill bewaart elk feit, elke voorwaarde en
-elke beperking uit de brontekst. Als een kortere formulering precisie zou kosten, blijft
-de langere staan en meld je de afweging.
+Team Taaladvies van de Vlaamse overheid. De skill gebruikt de brochures uit 2017 en 2024.
+Ze bewaart elk feit, elke voorwaarde en elke beperking uit de brontekst. Als een kortere
+formulering precisie zou kosten, blijft de langere staan en meld je de afweging.
 
 Dit is de Nederlandse tegenhanger van `simple-english` (ASD-STE100). Pas er nooit twee
 tegelijk toe op dezelfde tekst. Er bestaat geen Nederlandse ASD-STE100 en geen officieel
@@ -49,16 +49,26 @@ en maken de regel toetsbaar. Noem de gekozen modus niet in de uitvoer.
 
 ## De regels
 
-Vier blokken, met de indeling van de brochure *Hou je taal Heerlijk Helder* (Team
-Taaladvies, 2017). Citeer regels als blok + nummer, bijvoorbeeld "Formulering 1". Verzin
-geen nummers: zie `references/regels.md` voor de volledige lijst met voorbeelden.
+De genummerde regels volgen de indeling van *Hou je taal Heerlijk Helder* (Team
+Taaladvies, 2017). Citeer die regels als blok + nummer, bijvoorbeeld "Formulering 1".
+Verzin geen nummers. Aanvullende uitgangspunten uit de brochure van 2024 staan apart in
+`references/regels.md`.
+
+### Bepaal eerst beide doelen
+
+Kies vóór het schrijven het doel van de schrijver: **informeren**, **instrueren**,
+**overtuigen** of **motiveren**. Bepaal ook wat de lezer wil doen: **kennis verwerven**,
+**een vaardigheid verwerven**, **een standpunt innemen** of **een beslissing nemen**.
+Gebruik het paar om het teksttype en de volgorde van de informatie te kiezen. Het
+schrijversdoel en het lezersdoel zijn niet hetzelfde.
 
 ### Doelgroep
 
 1. Focus op wat de lezer wil of moet weten. Overschat de doelgroep niet.
 2. Bepaal één kernboodschap en zet die vooraan.
-3. Spreek de lezer rechtstreeks aan met *u* of *je*. Gebruik bij instructies de
-   gebiedende wijs. Vervang *men* en *de gebruiker dient* door een directe aanspreking.
+3. Spreek de lezer rechtstreeks aan met *u* of *je*. Kies op basis van het publiek en
+   het doel, en blijf consequent. Gebruik bij instructies de gebiedende wijs. Vervang
+   *men* en *de gebruiker dient* door een directe aanspreking.
 4. Kies een toon die bij de situatie past. Geen ambtelijke, juridische of
    gewichtige toon, en geen citaten uit regelgeving waar een gewone zin volstaat.
 
@@ -189,6 +199,9 @@ verdwenen is. Tel de tekens per sectie in plaats van het document door te lezen.
   Team Taaladvies, Departement Kanselarij en Bestuur, Vlaamse overheid, 2017
   (depotnummer D/2017/3241/319). Deze skill herformuleert de richtlijnen in eigen
   woorden; de voorbeelden hier zijn eigen werk.
+- *Basistips voor heerlijk heldere communicatie*, Departement Kanselarij en Buitenlandse
+  Zaken, eerste uitgave september 2024 (D/2024/3241/310). De aanvullende richtlijnen zijn
+  in eigen woorden samengevat; zie `references/regels.md`.
 - De naam komt van een campagne van het radioprogramma *Hautekiet* (Radio 1, 2015). In
   datzelfde jaar verscheen het boek *Heerlijk helder* van Jan Hautekiet en Ann De Craemer
   (Polis). De Vlaamse overheid nam de naam in 2017 over, in overleg met de VRT.

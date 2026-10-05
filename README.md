@@ -62,14 +62,16 @@ De stappen erna zijn gelijk.
 
 ## Wat de skill doet
 
-1. Kiest een modus. **Procedureel** voor instructies, runbooks, foutmeldingen en
+1. Bepaalt het doel van schrijver en lezer. Hun combinatie stuurt teksttype en volgorde.
+2. Kiest een modus. **Procedureel** voor instructies, runbooks, foutmeldingen en
    UI-tekst (max 20 woorden per zin). **Beschrijvend** voor documentatie, nota's en
    verslagen (max 25).
-2. Markeert overtredingen per zin, met verwijzing naar blok en nummer uit de brochure.
-3. Herschrijft zonder een feit, voorwaarde of datum te laten vallen. Kost een kortere
+3. Markeert overtredingen per zin, met verwijzing naar blok en nummer uit de brochure
+   van 2017. De brochure van 2024 vult de richtlijnen aan.
+4. Herschrijft zonder een feit, voorwaarde of datum te laten vallen. Kost een kortere
    formulering precisie, dan blijft de langere staan en wordt de afweging gemeld.
-4. Laat code, identifiers, commando's, geciteerde fouten en eigennamen ongemoeid.
-5. Levert alleen de herschreven tekst. Vraag om "de diff" en je krijgt een tabel
+5. Laat code, identifiers, commando's, geciteerde fouten en eigennamen ongemoeid.
+6. Levert alleen de herschreven tekst. Vraag om "de diff" en je krijgt een tabel
    voor/na met regelverwijzingen.
 
 ## Installatie met git
@@ -147,7 +149,8 @@ python3 scripts/helder-lint.py --json tekst.md
 Hij controleert: stijfwoorden, redactionele afkortingen, zinslengte, lijdende vorm,
 naamwoordstijl, werkwoordsgroepen van drie of meer, gestapelde ontkenningen, de
 men-vorm, vage woorden, te lange samenstellingen, alinea's van meer dan zes zinnen en
-synoniemrotatie. Met `--advies` komen leenwoorden en puntkomma's erbij.
+synoniemrotatie. Met `--advies` komen leenwoorden, mogelijk vage woorden en
+puntkomma's erbij.
 
 Hij controleert **niet**: of de betekenis bewaard bleef, of de tekst begrijpelijk is,
 of de toon klopt. Nul bevindingen betekent dat de ingebouwde patronen niets vonden.
@@ -169,14 +172,14 @@ python3 scripts/helder-lint.py --baseline 13 SKILL.md
 python3 -m unittest discover -s tests
 ```
 
-Zeventien tests, standaardbibliotheek, geen netwerk.
+Achttien tests, standaardbibliotheek, geen netwerk.
 
 ## Inhoud
 
 | Pad | Inhoud |
 |---|---|
 | `SKILL.md` | de skill zelf: regels, werkwijze, valkuilen |
-| `references/regels.md` | alle regels met de voorbeelden uit de brochure |
+| `references/regels.md` | regels uit 2017 en aanvullende uitgangspunten uit 2024 |
 | `references/woordenlijst.md` | stijfwoord naar gewoon woord, naamwoordstijl, vage woorden |
 | `references/checklist.md` | controlepas: mechanisch, telbaar, oordeel |
 | `references/toepassingen.md` | foutmeldingen, runbooks, postmortems, prompts, UI |
@@ -198,7 +201,9 @@ de brochure waarop deze skill zich baseert.
 
 Gebaseerd op *Hou je taal Heerlijk Helder. Twintig tips voor een heldere taal en heldere
 teksten*, Team Taaladvies, Departement Kanselarij en Bestuur, Vlaamse overheid, 2017
-(depotnummer D/2017/3241/319). De brochure is vrij beschikbaar bij de Vlaamse overheid.
+(depotnummer D/2017/3241/319), en *Basistips voor heerlijk heldere communicatie*,
+Departement Kanselarij en Buitenlandse Zaken, eerste uitgave september 2024
+(D/2024/3241/310). De brochures zijn vrij beschikbaar bij de Vlaamse overheid.
 
 Deze repo neemt geen tekst uit de brochure over. De regels zijn in eigen woorden
 geherformuleerd voor agentgebruik, en alle voorbeelden in `references/` en `examples/`

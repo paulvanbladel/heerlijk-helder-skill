@@ -98,6 +98,12 @@ VAAGWOORDEN = [
     "state of the art",
 ]
 
+# Contextafhankelijk: vraag om verduidelijking, maar niet elke treffer is vaag.
+CONTEXT_VAAGWOORDEN = [
+    "later", "vaak", "soms", "sommige", "mogelijk", "waarschijnlijk",
+    "nogal", "veel", "weinig",
+]
+
 NEGATIES = ("niet", "geen", "nooit", "niets", "noch", "zonder")
 
 # Formulering 4 — werkwoorden die een eindgroep vormen.
@@ -346,6 +352,12 @@ def controleer_zin(
                      w, _zoek(zin, w) or 1)
 
     if advies:
+        for naald in CONTEXT_VAAGWOORDEN:
+            pos = _zoek(zin, naald)
+            if pos:
+                voeg_toe("vaag-woord", "Formulering 3",
+                         "Mogelijk vaag. Controleer of de lezer genoeg informatie krijgt.",
+                         naald, pos, hard=False)
         for naald, beter in LEENWOORDEN.items():
             pos = _zoek(zin, naald)
             if pos:
