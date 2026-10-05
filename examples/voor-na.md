@@ -23,9 +23,8 @@ formulering), Formulering 4 (zin van 52 woorden, werkwoordsgroepen).
 > veroorzaakt zou kunnen zijn door een niet-overeenstemming in het verwachte
 > gegevensformaat, eventueel als gevolg van een verouderde clientversie.
 >
-> **Na:** Uw aanvraag is mislukt. Het gegevensformaat kwam niet overeen met wat de
-> server verwacht. Een verouderde client veroorzaakt dit vaak. Controleer uw
-> clientversie.
+> **Na:** Uw aanvraag is mogelijk mislukt door een afwijking van het verwachte
+> gegevensformaat, eventueel door een verouderde clientversie.
 
 Overtredingen: Doelgroep 4 (toon), Formulering 3 (naamwoordstijl, stapeling van slagen
 om de arm), Formulering 4 (één zin van 37 woorden).
@@ -48,8 +47,8 @@ Formulering 3 (naamwoordstijl), Formulering 4 (werkwoordsgroep van drie).
 > migratie kunnen wij melden dat er momenteel gewerkt wordt aan een oplossing die
 > op korte termijn geïmplementeerd zal worden.
 >
-> **Na:** Het team herschrijft de migratiescripts. De nieuwe versie staat op 12 november
-> in productie. De oorzaak was een ontbrekende index op `orders.customer_id`.
+> **Na:** We werken aan een oplossing in verband met de migratie. Die wordt op korte
+> termijn ingevoerd.
 
 Overtredingen: Formulering 1 (naar aanleiding van, met betrekking tot, implementeren),
 Formulering 3 (er wordt gewerkt aan, op korte termijn), Doelgroep 2 (geen kernboodschap).
