@@ -57,6 +57,9 @@ beoordeel steeds betekenis, gevoelswaarde en publiek.
 | ten aanzien van | over |
 | teneinde | om |
 | zulks | dat |
+| desalniettemin | toch |
+| betreffende | over |
+| omtrent | over |
 
 ## Licht formeel
 
@@ -74,10 +77,7 @@ natuurlijker leest.
 | voorts | ook |
 | bijgevolg | daardoor |
 | desondanks | toch |
-| desalniettemin | toch |
 | aangezien | omdat, want |
-| betreffende | over |
-| omtrent | over |
 | aldus | zo |
 | evenzeer | ook |
 | daarentegen | maar |

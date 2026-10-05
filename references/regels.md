@@ -7,10 +7,9 @@ Formulering 4, Toetsing 7. De aanvullende uitgangspunten hieronder komen uit
 *Basistips voor heerlijk heldere communicatie* (Departement Kanselarij en Buitenlandse
 Zaken, september 2024, D/2024/3241/310).
 
-De regels hieronder zijn in eigen woorden geformuleerd en **alle voorbeelden zijn eigen
-werk**, geschreven voor deze repo. Raadpleeg de brochure zelf voor de officiële
-formulering en de voorbeelden van de Vlaamse overheid. Citeer altijd blok + nummer zoals
-hier.
+De genummerde regels hieronder zijn in eigen woorden geformuleerd en hun voorbeelden
+zijn eigen werk, geschreven voor deze repo. Raadpleeg de brochures zelf voor de officiële
+formulering en voorbeelden. Citeer altijd blok + nummer zoals hier.
 
 ## Aanvullende uitgangspunten uit 2024
 
@@ -28,9 +27,9 @@ waarschijnlijk, nogal, veel* en *weinig*. Vraag welk tijdstip, aantal of welke
 waarschijnlijkheid bedoeld is. *Men* verbergt bovendien wie iets doet. Deze woorden zijn
 niet altijd fout; beoordeel of de lezer er genoeg informatie aan heeft.
 
-Verzacht slecht nieuws niet met een vage omschrijving. Schrijf bijvoorbeeld niet
-*de personeelsbezetting wordt verder gerationaliseerd* als de boodschap is dat
-*we dit jaar tien personeelsleden moeten laten afvloeien*. Benoem de concrete boodschap.
+Verzacht slecht nieuws niet met een vage omschrijving. Schrijf bijvoorbeeld niet dat de
+personeelsplanning wordt geoptimaliseerd als de concrete boodschap is dat tien
+medewerkers moeten vertrekken. Benoem de concrete boodschap.
 
 ### Gebruik leenwoorden alleen als dat beter werkt
 

@@ -172,7 +172,7 @@ python3 scripts/helder-lint.py --baseline 13 SKILL.md
 python3 -m unittest discover -s tests
 ```
 
-Zeventien tests, standaardbibliotheek, geen netwerk.
+Achttien tests, standaardbibliotheek, geen netwerk.
 
 ## Inhoud
 

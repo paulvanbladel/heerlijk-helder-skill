@@ -6,7 +6,8 @@ mensenwerk.
 
 ## 1. Mechanisch (zoekbaar)
 
-Zoek elk patroon. Elke treffer buiten code en citaten is een overtreding.
+Zoek elk patroon. Beoordeel elke treffer buiten code en citaten; contextafhankelijke
+woorden vragen om een afweging.
 
 | Zoek op | Overtreding | Fix |
 |---|---|---|

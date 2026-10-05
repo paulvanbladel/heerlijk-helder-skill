@@ -14,9 +14,8 @@ metadata:
 
 Herschrijf Nederlandse tekst volgens Heerlijk Helder, de richtlijn voor klare taal van
 Team Taaladvies van de Vlaamse overheid. De skill gebruikt de brochures uit 2017 en 2024.
-Ze bewaart elk feit, elke voorwaarde en
-elke beperking uit de brontekst. Als een kortere formulering precisie zou kosten, blijft
-de langere staan en meld je de afweging.
+Ze bewaart elk feit, elke voorwaarde en elke beperking uit de brontekst. Als een kortere
+formulering precisie zou kosten, blijft de langere staan en meld je de afweging.
 
 Dit is de Nederlandse tegenhanger van `simple-english` (ASD-STE100). Pas er nooit twee
 tegelijk toe op dezelfde tekst. Er bestaat geen Nederlandse ASD-STE100 en geen officieel
