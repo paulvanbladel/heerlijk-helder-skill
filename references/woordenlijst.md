@@ -1,14 +1,16 @@
 # Woordenlijst: stijfwoord naar gewoon woord
 
-Substitutielijst bij Formulering 1. De lijst is voor deze repo samengesteld uit gangbaar
-Nederlands taaladvies; raadpleeg Taaltelefoon voor het officiële advies per woord. De
-lijst is richtinggevend, geen gesloten lijst: bestaat er een gewoner woord met dezelfde
-betekenis en gevoelswaarde, gebruik dat.
+Substitutielijst bij Formulering 1, aangevuld met de gradatie uit *Basistips voor heerlijk
+heldere communicatie* (2024). De alternatieven zijn voorbeelden voor deze repo, geen
+letterlijke overname uit de brochure. De lijst is richtinggevend, geen gesloten lijst:
+beoordeel steeds betekenis, gevoelswaarde en publiek.
 
-## Stijfwoorden
+## Te vermijden
 
 | Liever niet | Maar wel |
 |---|---|
+| alsmede | en, ook |
+| doch | maar |
 | bij dezen | hierbij |
 | derhalve | dus |
 | dienen te | moeten, verplicht zijn |
@@ -39,11 +41,10 @@ betekenis en gevoelswaarde, gebruik dat.
 | rekening houdend met | door, volgens |
 | vooraleer | voordat |
 
-## Uitbreiding: ambtelijk
+## Te vermijden (vervolg)
 
 | Liever niet | Maar wel |
 |---|---|
-| alsmede | en, ook |
 | alvorens | voordat |
 | conform | volgens |
 | desgevallend | als dat zo is |
@@ -56,6 +57,30 @@ betekenis en gevoelswaarde, gebruik dat.
 | ten aanzien van | over |
 | teneinde | om |
 | zulks | dat |
+
+## Licht formeel
+
+Deze woorden zijn niet altijd een probleem. Kies een gewoner alternatief als dat
+natuurlijker leest.
+
+| Liever niet | Maar wel |
+|---|---|
+| echter | maar |
+| immers | want |
+| bovendien | ook |
+| evenwel | maar |
+| niettemin | toch |
+| nochtans | toch |
+| voorts | ook |
+| bijgevolg | daardoor |
+| desondanks | toch |
+| desalniettemin | toch |
+| aangezien | omdat, want |
+| betreffende | over |
+| omtrent | over |
+| aldus | zo |
+| evenzeer | ook |
+| daarentegen | maar |
 
 ## Uitbreiding: naamwoordstijl
 
@@ -70,17 +95,20 @@ Een handeling hoort in een werkwoord, niet in een zelfstandig naamwoord.
 | overgaan tot verwijdering van | verwijderen |
 | een verhoging van de limiet doorvoeren | de limiet verhogen |
 
-## Uitbreiding: vage woorden
+## Vage woorden
 
-Vervang door een getal, een datum of een naam. Lukt dat niet, schrap het woord.
+Zoek deze woorden gericht op. Vraag welk feit bedoeld is en maak dat concreet als de bron
+het vermeldt. De woorden zijn niet in elke context vaag; verzin geen precisie.
 
 | Vaag | Vraag jezelf af |
 |---|---|
-| binnenkort, op korte termijn | welke datum? |
-| diverse, een aantal | hoeveel? |
+| binnenkort, later, zo snel mogelijk, op korte termijn | welke datum of termijn? |
+| vaak, soms | hoe vaak precies? |
+| sommige, veel, weinig, diverse, een aantal | hoeveel of welke? |
+| mogelijk, waarschijnlijk, nogal, in principe, eigenlijk, min of meer | hoe zeker of in welke mate? |
+| men | wie doet het? |
 | de nodige maatregelen | welke maatregelen? |
 | performant, robuust, krachtig | welk cijfer bewijst dat? |
-| in principe, eigenlijk, min of meer | geldt het of niet? |
 | er wordt gewerkt aan | wie werkt eraan? |
 
 ## Eén woord per begrip

@@ -17,7 +17,8 @@ Zoek elk patroon. Elke treffer buiten code en citaten is een overtreding.
 | het ...en van, bij het ...en van | naamwoordstijl (Formulering 3) | gebruik het werkwoord |
 | zou kunnen worden, had moeten zijn | werkwoordsgroep van drie (Formulering 4) | herschrijf actief |
 | niet + geen in één zin | gestapelde ontkenning (Formulering 3) | formuleer positief |
-| binnenkort, diverse, de nodige, in principe, robuust, naadloos | vaag woord (Formulering 3) | noem het getal, de datum of de naam |
+| binnenkort, later, zo snel mogelijk, vaak, soms, sommige, mogelijk, waarschijnlijk, nogal, veel, weinig | mogelijk vaag woord (Formulering 3) | vraag welk tijdstip, aantal of welke waarschijnlijkheid bedoeld is |
+| diverse, de nodige, in principe, robuust, naadloos | vaag woord (Formulering 3) | noem het getal, de datum of de naam |
 | meer informatie vindt u hier | nietszeggende link (Structuur 7) | benoem de bestemming |
 
 ## 2. Telbaar
@@ -35,23 +36,30 @@ Zoek elk patroon. Elke treffer buiten code en citaten is een overtreding.
 
 6. **Classificatie.** Is elke passage ofwel procedureel ofwel beschrijvend? Procedures in
    de gebiedende wijs, beschrijvingen nooit in de gebiedende wijs.
-7. **Lijdende vorm.** Is de handelende persoon echt onbekend of onbelangrijk? Zo niet:
+7. **Doel.** Wat wil de schrijver bereiken (informeren, instrueren, overtuigen of
+   motiveren)? Wat wil de lezer doen (kennis of een vaardigheid verwerven, een standpunt
+   innemen of een beslissing nemen)? Past teksttype en volgorde bij beide doelen?
+8. **Lijdende vorm.** Is de handelende persoon echt onbekend of onbelangrijk? Zo niet:
    actief maken.
-8. **Voorwaarde vooraan.** Staat elke als-voorwaarde vóór het commando, met komma?
+9. **Voorwaarde vooraan.** Staat elke als-voorwaarde vóór het commando, met komma?
    *Als de build faalt, stop de pijplijn.*
-9. **Eén woord per begrip.** Scan op controleren/nakijken/verifiëren,
+10. **Eén woord per begrip.** Scan op controleren/nakijken/verifiëren,
    instellingen/configuratie, uitvoeren/runnen/draaien.
-10. **Waarschuwingen.** Eerst de handeling of de voorwaarde, dan het risico.
-11. **Volledigheid.** Staat elk feit, elke datum en elke voorwaarde uit het origineel
+11. **Waarschuwingen.** Eerst de handeling of de voorwaarde, dan het risico.
+12. **Volledigheid.** Staat elk feit, elke datum en elke voorwaarde uit het origineel
     nog in de herschrijving?
-12. **Onaangeroerd.** Code, identifiers, commando's, geciteerde fouten en eigennamen
+13. **Onaangeroerd.** Code, identifiers, commando's, geciteerde fouten en eigennamen
     zijn ongewijzigd.
-13. **Toon.** Past de aanspreking (u of je) bij de situatie, en is ze consequent?
+14. **Toon.** Past de aanspreking (*u* of *je*) bij publiek en doel, zonder te gewichtig
+    of te familiair te klinken?
+15. **Leenwoorden.** Is er geen goed Nederlands alternatief, verschilt het alternatief
+    in betekenis of gevoelswaarde, is het publiek anderstalig of specialistisch?
+16. **Na publicatie.** Welke vragen stelt het contactcenter? Welke formuliervelden vullen
+    dossierbehandelaars vaak fout in? Wat laten webstatistieken zien?
 
 ## 4. Rapporteren in controlemodus
 
 Geef per overtreding: blok + nummer, het fragment, en een conforme herschrijving.
 Citeer alleen regelnummers die in `regels.md` staan.
 
-Sluit af met: "Deze controle is geen garantie op klare taal. De schrijver beslist.
-De brochure *Hou je taal Heerlijk Helder* is gratis beschikbaar bij de Vlaamse overheid."
+Sluit af met: "Deze controle is geen garantie op klare taal. De schrijver beslist."

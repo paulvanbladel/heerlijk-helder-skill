@@ -1,14 +1,56 @@
 # Volledige regellijst met voorbeelden
 
-De regels volgen de indeling van *Hou je taal Heerlijk Helder. Twintig tips voor een
-heldere taal en heldere teksten* (Team Taaladvies, Vlaamse overheid, 2017). De brochure
-heet "twintig tips" maar telt er 22 in vier blokken: Doelgroep 4, Structuur 7,
-Formulering 4, Toetsing 7.
+De genummerde regels volgen de indeling van *Hou je taal Heerlijk Helder. Twintig tips
+voor een heldere taal en heldere teksten* (Team Taaladvies, Vlaamse overheid, 2017). De
+brochure heet "twintig tips" maar telt er 22 in vier blokken: Doelgroep 4, Structuur 7,
+Formulering 4, Toetsing 7. De aanvullende uitgangspunten hieronder komen uit
+*Basistips voor heerlijk heldere communicatie* (Departement Kanselarij en Buitenlandse
+Zaken, september 2024, D/2024/3241/310).
 
 De regels hieronder zijn in eigen woorden geformuleerd en **alle voorbeelden zijn eigen
 werk**, geschreven voor deze repo. Raadpleeg de brochure zelf voor de officiële
 formulering en de voorbeelden van de Vlaamse overheid. Citeer altijd blok + nummer zoals
 hier.
+
+## Aanvullende uitgangspunten uit 2024
+
+### Bepaal het doel van schrijver én lezer
+
+Kies eerst het doel van de schrijver: informeren, instrueren, overtuigen of motiveren.
+Kies daarnaast het doel van de lezer: kennis verwerven, een vaardigheid verwerven, een
+standpunt innemen of een beslissing nemen. Die doelen zijn verschillend. Gebruik het
+paar om het teksttype en de volgorde van de informatie te kiezen.
+
+### Maak vage woorden concreet
+
+Zoek gericht naar *binnenkort, later, zo snel mogelijk, vaak, soms, sommige, mogelijk,
+waarschijnlijk, nogal, veel* en *weinig*. Vraag welk tijdstip, aantal of welke
+waarschijnlijkheid bedoeld is. *Men* verbergt bovendien wie iets doet. Deze woorden zijn
+niet altijd fout; beoordeel of de lezer er genoeg informatie aan heeft.
+
+Verzacht slecht nieuws niet met een vage omschrijving. Schrijf bijvoorbeeld niet
+*de personeelsbezetting wordt verder gerationaliseerd* als de boodschap is dat
+*we dit jaar tien personeelsleden moeten laten afvloeien*. Benoem de concrete boodschap.
+
+### Gebruik leenwoorden alleen als dat beter werkt
+
+Kies een leenwoord als er geen goed Nederlands alternatief is, als het alternatief een
+andere betekenis of gevoelswaarde heeft, als het publiek anderstalig is of als het
+publiek specialist is. Voor een anderstalig publiek kan een internationaal woord zoals
+*infectie* duidelijker zijn dan *besmetting*. Stem de keuze steeds af op de lezer.
+
+### Kies *u* of *je* voor het publiek
+
+De brochure van 2017 geeft *u* als voorbeeld; de keuze is niet universeel. Kies *u* of
+*je* op basis van het publiek en het doel, en gebruik die aanspreking consequent. Een
+toon kan te gewichtig of juist te familiair zijn.
+
+### Evalueer de tekst na publicatie
+
+Vraag het contactcenter welke vragen lezers over de tekst stellen. Vraag
+dossierbehandelaars welke velden op een formulier vaak fout ingevuld worden. Gebruik
+webstatistieken om te zien hoe lezers de gepubliceerde informatie gebruiken. Pas de tekst
+aan op basis van die signalen.
 
 ## Doelgroep
 
