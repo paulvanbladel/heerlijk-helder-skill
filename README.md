@@ -186,6 +186,7 @@ Achttien tests, standaardbibliotheek, geen netwerk.
 | `examples/voor-na.md` | herschrijvingen met regelverwijzing |
 | `scripts/helder-lint.py` | deterministische structuurcontrole |
 | `tests/` | testsuite en fixtures |
+| `CHANGELOG.md` | release notes |
 
 ## Bron en licentie
 
